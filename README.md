@@ -1,0 +1,2 @@
+# metatron-apex-malhar
+Metatron Apex Malhar repository contains open source operator and codec library that can be used with the Metratron Apex platform to build Realtime streaming applications. In addition to the library there are benchmark, contrib, examples and samples folders available. Examples contain applications built using the library operators. Benchmark contains performance testing applications. Contrib contains additional operators that interface with third party softwares. Samples contain some sample code that shows how to use the library operators.
